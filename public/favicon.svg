@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#0f0f0f"/>
+  <path d="M256 80 C180 80, 110 140, 110 220 C110 280, 145 330, 200 358 L200 380 L312 380 L312 358 C367 330, 402 280, 402 220 C402 140, 332 80, 256 80Z" fill="none" stroke="#0E5E4F" stroke-width="8"/>
+  <path d="M220 200 C220 180, 230 165, 256 165 C282 165, 292 180, 292 200 C292 220, 280 234, 256 240 C232 234, 220 220, 220 200Z" fill="none" stroke="#C8A951" stroke-width="6"/>
+  <polyline points="180,240 210,220 240,250 270,210 300,240 330,220" fill="none" stroke="#C8A951" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="256" y1="380" x2="256" y2="420" stroke="#C8A951" stroke-width="6" stroke-linecap="round"/>
+  <line x1="220" y1="420" x2="292" y2="420" stroke="#C8A951" stroke-width="6" stroke-linecap="round"/>
+  <!-- Shield outline -->
+  <path d="M256 60 L380 110 L380 260 C380 340, 320 400, 256 430 C192 400, 132 340, 132 260 L132 110 Z" fill="none" stroke="#C8A951" stroke-width="5" stroke-opacity="0.4"/>
+</svg>
